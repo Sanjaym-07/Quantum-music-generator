@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Music Generator",
+  "description": "An interactive web application that uses the Gemini API to simulate quantum randomness and generate unique musical melodies. Users can customize generation parameters, visualize the quantum states and musical notes, and play or download the resulting composition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
